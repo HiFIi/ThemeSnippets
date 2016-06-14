@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <dimen name="search_box_elevation">2.0dip</dimen>
+     <dimen name="design_fab_translation_z_pressed">0dp</dimen>
+     <dimen name="floating_action_button_translation_z">0dp</dimen>
+     <dimen name="tab_elevation">12.0dip</dimen>
+     <dimen name="action_bar_elevation">6.0dip</dimen>
+     <dimen name="call_detail_elevation">2.0dip</dimen>
+     <dimen name="dialpad_elevation">0dp</dimen>
+     <dimen name="search_box_icon_size">56.0dip</dimen>
+    <dimen name="search_box_close_icon_size">72.0dip</dimen>
+    <dimen name="design_bottom_sheet_modal_elevation">4.0dip</dimen>
+    <dimen name="design_bottom_sheet_modal_peek_height">200.0dip</dimen>
+    <dimen name="tab_selected_underline_height">4.0dip</dimen>
+</resources>

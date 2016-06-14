@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialer_theme_color">#ff6c9df0</color>
+    <color name="dialer_theme_color_dark">#ff4885ed</color>
+    <color name="dialpad_primary_text_color">#303030</color>
+    <color name="dialpad_secondary_text_color">#ff505050</color>
+    <color name="dialpad_digits_text_color">#ff303030</color>
+    <color name="dialpad_separator_line_color">#20000000</color>
+    <color name="dialpad_icon_tint">#303030</color>
+    <color name="dialpad_voicemail_tint">#ff202020</color>
+    <color name="holo_list_background_color">#fffafafa</color>
+    <color name="focus_color">#44ff0000</color>
+    <color name="primary_text_color">#ff505050</color>
+    <color name="secondary_text_color">#FF303030</color>
+    <color name="section_header_text_color">#ff949494</color>
+    <color name="main_header_separator_color">#4885ed</color>
+    <color name="secondary_header_separator_color">#ff4885ed</color>
+    <color name="people_app_theme_color">#ff202020</color>
+    <color name="dialtacts_theme_color">#ff4885ed</color>
+    <color name="image_placeholder">#fffafafa</color>
+    <color name="dialtacts_primary_text_color">#ff303030</color>
+    <color name="dialtacts_secondary_text_color">#ff505050</color>
+    <color name="contact_tile_shadow_box_color">#33000000</color>
+    <color name="people_contact_tile_status_color">#ffcccccc</color>
+    <color name="shortcut_overlay_text_background">#7f000000</color>
+    <color name="statusbar_background_color">#757575</color>
+    
+    <color name="textColorIconOverlay">#ff202020</color>
+    <color name="actionbar_icon_color">#ff202020</color>
+    <color name="tab_accent_color">#40fafafa</color>
+    <color name="ripple_material_dark">#40fafafa</color>
+    <color name="actionbar_background_color">#6c9df0</color>
+
+</resources>
