@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="place_picker_center_bar_elevation">2.0dip</dimen>
+    <dimen name="place_picker_list_item_elevation">2.0dip</dimen>
+    <dimen name="action_bar_elevation">1.0dip</dimen>
+    <dimen name="fab_elevation">4.0dip</dimen>
+    <dimen name="fab_elevation_pressed">10.0dip</dimen>
+    <dimen name="explode_animation_highlight_elevation">2.0dip</dimen>
+</resources>

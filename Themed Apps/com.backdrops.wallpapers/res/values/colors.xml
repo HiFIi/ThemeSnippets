@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33000000</color>
+    <color name="primary">#161819</color>
+    <color name="primaryDark">#ff080809</color>
+    <color name="materialize_primary">#FF161819</color>
+    <color name="materialize_primary_dark">#FF080909</color>
+    <color name="materialize_primary_light">#FFFAFAFA</color>  
+    <color name="native_background">#ff161718</color>
+    <color name="material_drawer_background">#FF161820</color>
+    <color name="material_drawer_dark_background">#FF080910</color>    
+</resources>

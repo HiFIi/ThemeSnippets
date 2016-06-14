@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="actionbar_profile_avatar_ring_inner_radius">2.0dip</dimen>
+    <dimen name="actionbar_profile_avatar_ring_thickness">0.5dip</dimen>
+    <dimen name="host_min_navigation_bar_width">320.0dip</dimen>
+    <dimen name="host_max_navigation_bar_width">320.0dip</dimen>
+    <dimen name="host_min_notification_bar_width">320.0dip</dimen>
+    <dimen name="host_min_notification_bar_margin_left">56.0dip</dimen>
+    <dimen name="host_shadow_width">0.0dip</dimen>
+    <dimen name="photos_fake_shadow_height">0.0dip</dimen>
+
+</resources>

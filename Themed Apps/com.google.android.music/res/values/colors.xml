@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ * Copyright (C) 2014 The CyanogenMod Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+-->
+
+<resources>
+
+    <color name="play_music_primary">#ffffa54f</color>
+    <color name="play_music_primary_disabled">#80ffa54f</color>
+    <color name="play_music_secondary">#ffcc843f</color>
+    <color name="lb_card_info_background_color">#fffafafa</color>
+    <color name="play_white">#fffafafa</color>
+    <color name="play_header_list_tab_underline_color">#fffafafa</color>
+    <color name="play_header_list_banner_text_color">#fffafafa</color>
+    <color name="play_onboard__page_indicator_dot_active">#fffafafa</color>
+    <color name="lb_browse_header_color">#fffafafa</color>
+    <color name="primary_text_default_material_dark">#fffafafa</color>
+    <color name="white">#fffafafa</color>
+    <color name="appwidget_text">#fffafafa</color>
+    <color name="appwidget_text_primary">#fffafafa</color>
+    <color name="nus_background">#fffafafa</color>
+    <color name="download_only_strip_text_color">#fffafafa</color>
+    <color name="black_transparent_20">#33000000</color>
+    <color name="play_fg_primary">#ff505050</color>
+    <color name="play_fg_secondary">#ff757575</color>
+    <color name="upsell_background">#ffdddddd</color>
+
+</resources>

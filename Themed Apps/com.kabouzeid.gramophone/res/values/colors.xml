@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_dark_dividers">@android:color/transparent</color>
+    <color name="md_divider_black">@android:color/transparent</color>
+    <color name="md_divider_white">@android:color/transparent</color>
+    <color name="md_light_dividers">@android:color/transparent</color>
+
+    <color name="pink_A400">#00ADB5</color>
+    <color name="md_pink_A400">#00ADB5</color>
+
+    <color name="indigo_500">#FF404042</color>
+    <color name="md_indigo_500">#FF303032</color>
+    <color name="md_indigo_600">#FF202021</color>
+
+    <color name="grey_800">#505050</color>
+    <color name="material_grey_800">#505050</color>
+    <color name="md_grey_800">#404040</color>
+</resources>

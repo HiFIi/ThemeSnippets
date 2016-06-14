@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="detail_thumb_height">300.0dip</dimen>
+    <dimen name="thumb_height">100.0dip</dimen>
+    <dimen name="material_drawer_account_header_height">180.0dip</dimen>
+    <dimen name="design_navigation_max_width">320.0dip</dimen>
+    <dimen name="design_appbar_elevation">16.0dip</dimen>
+    <dimen name="materialize_toolbar">0dp</dimen>
+    <dimen name="detail_content_height">200.0dip</dimen>
+    <dimen name="abc_action_bar_default_height_material">0dp</dimen>
+</resources>
